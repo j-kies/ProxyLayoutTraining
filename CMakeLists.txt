@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.19)
+project(ProxyLayoutsTraining)
+add_subdirectory(Example1-Buttons)
+add_subdirectory(Example2-PassingProperties)
+add_subdirectory(Example3-RTL)
+add_subdirectory(Example4-AdjustableButton)
+add_subdirectory(Example5-AdjustableCard)
+add_subdirectory(Example6-ExampleUI)
